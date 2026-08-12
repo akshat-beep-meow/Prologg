@@ -1,4 +1,4 @@
-male(amar).
+male(amir).
 male(narayan).
 male(akshat).
 
@@ -6,7 +6,7 @@ female(jyoti).
 female(vineeta).
 female(aashna).
 
-parent(amar,narayan).
+parent(amir,narayan).
 parent(jyoti,narayan).
 
 parent(narayan,akshat).
