@@ -1,3 +1,3 @@
-summ(X,Y):-
+sum(X,Y):-
   W is X + Y,
   write(W).
